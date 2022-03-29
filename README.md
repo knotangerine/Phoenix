@@ -21,7 +21,7 @@ Phoenix helps you decide that by giving you recommendations for movies, tv shows
 
 ## Demo
 
-Insert gif or link to demo
+![233](https://user-images.githubusercontent.com/100766914/160620087-b50b9b0d-1310-4aa9-9d0f-381f2841dee0.gif)
 
 
 ## Installation
